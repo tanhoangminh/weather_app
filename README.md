@@ -10,5 +10,5 @@
 
 
 ## Chạy chương trình
-`git clone https://github.com/tanhoangminh/weather_app.git`
-`cd weather_app && flutter run --debug`
+- `git clone https://github.com/tanhoangminh/weather_app.git`
+- `cd weather_app && flutter run --debug`
